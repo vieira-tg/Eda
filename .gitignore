@@ -1,1 +1,8 @@
-prompt_EdaMetricas.md
+# ambiente virtual do projeto (não versionar)
+.venv/
+venv/
+
+# caches Python
+__pycache__/
+*.py[cod]
+.pytest_cache/

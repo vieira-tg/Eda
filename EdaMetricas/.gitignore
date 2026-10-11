@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Artefatos locais de teste (relatórios gerados em smoke tests)
+assets/_*.html
+
+# Sistema
+Thumbs.db
+.DS_Store
