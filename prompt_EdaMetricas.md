@@ -135,7 +135,7 @@ com baixa cardinalidade (→ classificação); permitir override manual.
 - Sugerir estratégia de imputação por tipo de dado (média/mediana para
   numéricas, moda para categóricas, interpolação para séries temporais).
 
-### 5.7 Correlação e multicolinearidade
+### 5.7 Correlação e multicolineaasfasridade
 - Matriz de correlação **Pearson** (linear) e **Spearman** (monotônica/não-normal)
   entre numéricas, como heatmap.
 - **Cramér's V** para pares categórico-categórico.
